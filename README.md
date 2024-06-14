@@ -1,33 +1,22 @@
 # Web Development Basics
 
-Welcome to the Web Development Basics repository! These projects are designed to provide an introduction to fundamental web development technologies, including React, jQuery, JavaScript, and Material-UI (MUI). The repository includes two main projects: a Bootstrap Form and a To-Do List application. These projects are from CSDS 221: Web Development at Case Western.
-
-## Table of Contents
-
-- [Technologies](#technologies)
-- [Projects](#projects)
-  - [Bootstrap Form](#bootstrap-form)
-  - [To-Do List](#to-do-list)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+Welcome to the Web Deve Basics. These projects are designed to provide an introduction to fundamental web development technologies, including React, jQuery, JavaScript, and Material-UI (MUI). The repository includes two main projects: a Bootstrap Form and a To-Do List application. These projects are from CSDS 221: Web Development at Case Western.
 
 ## Technologies
 
 This repository utilizes the following technologies:
 
-- **React**: A JavaScript library for building user interfaces.
-- **jQuery**: A fast, small, and feature-rich JavaScript library.
-- **JavaScript**: The programming language of the web.
-- **Material-UI (MUI)**: React components for faster and easier web development, including MUI icons.
-- **Bootstrap**: A powerful, mobile-first front-end framework.
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
 
 ## Projects
 
 ### Bootstrap Form
 
-This project showcases a simple form built with Bootstrap. The form demonstrates various input fields, including text inputs, radio buttons, checkboxes, and a submit button.
+A simple form built with Bootstrap. The form demonstrates various input fields, including text inputs, radio buttons, checkboxes, and a submit button. An introduction to JavaScript. 
 
 #### Features
 
@@ -37,7 +26,7 @@ This project showcases a simple form built with Bootstrap. The form demonstrates
 
 ### To-Do List
 
-The To-Do List project is a task management application built using React. It allows users to add, delete, and mark tasks as complete.
+A task management application built using React. It allows users to add, delete, and mark tasks as complete. The project helps dealing with JSX, class and function components, props, and state management.
 
 #### Features
 
