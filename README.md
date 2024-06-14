@@ -1,6 +1,8 @@
 # Web Development Basics
 
-Welcome to the Web Deve Basics. These projects are designed to provide an introduction to fundamental web development technologies, including React, jQuery, JavaScript, and Material-UI (MUI). The repository includes two main projects: a Bootstrap Form and a To-Do List application. These projects are from CSDS 221: Web Development at Case Western.
+Welcome to the Web Dev Basics. These projects are designed to provide an introduction to fundamental web development technologies, including React, jQuery, JavaScript, and Material-UI (MUI). The repository includes two main projects: a Bootstrap Form and a To-Do List application. 
+
+These projects are from CSDS 221: Web Development at Case Western. A full-stack applications can be found under Match-Mate repo. 
 
 ## Technologies
 
@@ -34,6 +36,3 @@ A task management application built using React. It allows users to add, delete,
 - Delete tasks
 - Mark tasks as complete
 - Dynamic UI with React
-
-## Installation
-
