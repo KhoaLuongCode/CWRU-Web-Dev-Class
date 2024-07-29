@@ -20,12 +20,6 @@ This repository utilizes the following technologies:
 
 A simple form built with Bootstrap. The form demonstrates various input fields, including text inputs, radio buttons, checkboxes, and a submit button. An introduction to JavaScript. 
 
-#### Features
-
-- Responsive design
-- Easy-to-use form elements
-- Bootstrap styling
-
 ### To-Do List
 
 A task management application built using React. It allows users to add, delete, and mark tasks as complete. The project helps dealing with JSX, class and function components, props, and state management.
